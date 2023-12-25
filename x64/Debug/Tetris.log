@@ -1,0 +1,6 @@
+﻿  CBanCo.cpp
+D:\VScode\Tetris\CQuanCoFactory.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VScode\Tetris\CBanCo.cpp(29,7): warning C4930: 'CPen pen(void)': prototyped function not called (was a variable definition intended?)
+D:\VScode\Tetris\CBanCo.cpp(311,12): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\VScode\Tetris\CBanCo.cpp(274): warning C4715: 'CBanCo::kiemtra_thua': not all control paths return a value
+  Tetris.vcxproj -> D:\VScode\Tetris\x64\Debug\Tetris.exe
